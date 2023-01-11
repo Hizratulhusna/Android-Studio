@@ -1,0 +1,4 @@
+#Mon Nov 14 12:35:18 SGT 2022
+base.0=C\:\\Users\\hizra\\AndroidStudioProjects\\KeyboardDialPhone\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
